@@ -25,8 +25,8 @@ const tarjetas = [
             { cuotas: 1, recargo: 0, desc: "1 Pago" },
             { cuotas: 3, recargo: 0, desc: "Plan Z (3 cuotas)" },
             { cuotas: 5, recargo: 0, desc: "5 Cuotas" },
-            { cuotas: 8, recargo: 9, desc: "8 Cuotas" },
-            { cuotas: 10, recargo: 13, desc: "10 Cuotas" }
+            { cuotas: 8, recargo: 11, desc: "8 Cuotas" },
+            { cuotas: 10, recargo: 9, desc: "10 Cuotas" }
         ]
     },
     {
